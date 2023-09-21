@@ -1,0 +1,23 @@
+you can search in the result 
+always make the ER diagram and convert into the statements 
+ask chatgbt about the sql statments 
+
+in procedure 
+
+case 
+when thne 
+end case 
+
+
+noramlly 
+
+you have to use 
+
+case 
+when then 
+end
+
+only
+
+
+note all the checklist according to the requiredment 
