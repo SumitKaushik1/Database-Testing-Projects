@@ -9,5 +9,7 @@ It consist the test cases regarding the tables in particular schema.
 procedure testing ->
 It consist the testing of procedures.
 
-stored procedure testing-Automation-> 
+
+
+databasetesting->
 It consists the .java files for testing stored procedure by TestNg
