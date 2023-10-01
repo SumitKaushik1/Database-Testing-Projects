@@ -12,4 +12,4 @@ It consist the testing of procedures.
 
 
 databasetesting->
-It consists the .java files for testing stored procedure by TestNg
+It consists the .java files for testing stored procedure by TestNg(Automation)
