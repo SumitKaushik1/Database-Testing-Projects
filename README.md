@@ -6,10 +6,10 @@ mysqlsampledatabase FULL SCHEMA --> it consists all the commands for table forma
 structural_Testing -->
 It consist the test cases regarding the tables in classicmodel schema.
 
-procedure_testing ->
+stored_procedure_testing ->
 It consist the testing of  stored procedures.
 
-function_testing ->
+stored_function_testing ->
 It consist the testing of stored functions.
 
 
