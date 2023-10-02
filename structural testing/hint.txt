@@ -1,3 +1,0 @@
-*after applying the query you have to check from the document (pdf is correct or not )
-
-when any field is made as the foreightn key then it MUL comes before it ie mutliple values are allowed in it b/z it referenced from other table 
