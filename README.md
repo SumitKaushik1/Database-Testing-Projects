@@ -3,11 +3,14 @@ CLASSICMYSQLMODEL ER DIAGRAM --> It is the ER digram represents the tables relat
 
 mysqlsampledatabase FULL SCHEMA --> it consists all the commands for table formation in classicmodel schema.
 
-structural Testing -->
+structural_Testing -->
 It consist the test cases regarding the tables in classicmodel schema.
 
-procedure testing ->
-It consist the testing of procedures.
+stored_procedure_testing ->
+It consist the testing of  stored procedures.
+
+stored_function_testing ->
+It consist the testing of stored functions.
 
 
 
