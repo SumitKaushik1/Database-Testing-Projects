@@ -1,0 +1,56 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "All Test Suite",
+    "children" : [ {
+      "name" : "C:/Users/amit/Downloads/3.DATA_BASE_TESTING_SDET_QA_AUTOMATION_TECHIE/part10_data_base_testing_automation/databasetesting1",
+      "children" : [ {
+        "name" : "org.database.testing1.DataBaseTesting1",
+        "children" : [ {
+          "name" : "storedFunctionExists",
+          "uid" : "5f1fb5956ddfc8ba",
+          "parentUid" : "865d41ac7e9006e24117cebb58b0b270",
+          "status" : "passed",
+          "time" : {
+            "start" : 1696236860114,
+            "stop" : 1696236860501,
+            "duration" : 387
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "testCustomerLevelWithSQLStatement",
+          "uid" : "fbb216a83995dcde",
+          "parentUid" : "865d41ac7e9006e24117cebb58b0b270",
+          "status" : "passed",
+          "time" : {
+            "start" : 1696236860717,
+            "stop" : 1696236860775,
+            "duration" : 58
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "testCustomerLevelWithStoredProcedure",
+          "uid" : "dc372b3b393e1a31",
+          "parentUid" : "865d41ac7e9006e24117cebb58b0b270",
+          "status" : "passed",
+          "time" : {
+            "start" : 1696236860817,
+            "stop" : 1696236861006,
+            "duration" : 189
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "865d41ac7e9006e24117cebb58b0b270"
+      } ],
+      "uid" : "733c3bffc58724b0ffd288108c1d8338"
+    } ],
+    "uid" : "7d0421919ebcae780c955830177c9415"
+  } ]
+}

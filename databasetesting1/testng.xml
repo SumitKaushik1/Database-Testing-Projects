@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/amit/Downloads/3.DATA_BASE_TESTING_SDET_QA_AUTOMATION_TECHIE/part10_data_base_testing_automation/databasetesting1">
+        <classes>
+            <!--<class name="org.database.testing1.AppTest">
+                <methods>
+                        <include name="shouldAnswerWithTrue"/>
+                </methods>
+            </class>-->
+                <class name="org.database.testing1.DataBaseTesting1">
+                    <methods>
+                       <include name="storedFunctionExists"/>
+                        <include name="testCustomerLevelWithSQLStatement"/>
+
+                        <include name="testCustomerLevelWithStoredProcedure"/>
+                    </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

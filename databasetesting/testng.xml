@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite"   parallel="classes" thread-count="2">
+            <test verbose="2" preserve-order="true" name="C:/Users/amit/Downloads/3.DATA BASE TESTING  SDET QA AUTOMATION TECHIE/part6 procedure testing automation/databasetesting">
+                <classes>
+                  <!--  <class name="com.databasetesting.AppTest">
+                    <methods>
+                        <include name="shouldAnswerWithTrue"/>
+                    </methods>
+                   </class>-->
+                    <class name="com.databasetesting.DatabaseTesting">
+                     <methods>
+                           <include name="testStoredProcedureExists"/>
+                         <include name="selectAllCustomer"/>
+                         <include name="selectAllCustomersByCity"/>
+                         <include name="selectAllCustomersByCityAndPin"/>
+                         <include name="test_get_order_by_cust"/>
+
+                         <include name="testGetCustomerShipping"/>
+                     </methods>
+                </class>
+                </classes>
+         </test>
+</suite>
