@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="C:/Users/amit/Downloads/3.DATA BASE TESTING  SDET QA AUTOMATION TECHIE/part6 procedure testing automation/databasetesting"
+           tests="6"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.542">
+    <properties></properties>
+
+
+
+            <testcase
+                name="selectAllCustomer"
+                time="0.175"
+                classname="com.databasetesting.DatabaseTesting">
+            </testcase>
+            <testcase
+                name="testStoredProcedureExists"
+                time="0.217"
+                classname="com.databasetesting.DatabaseTesting">
+            </testcase>
+            <testcase
+                name="selectAllCustomersByCity"
+                time="0.045"
+                classname="com.databasetesting.DatabaseTesting">
+            </testcase>
+            <testcase
+                name="testGetCustomerShipping"
+                time="0.027"
+                classname="com.databasetesting.DatabaseTesting">
+            </testcase>
+            <testcase
+                name="selectAllCustomersByCityAndPin"
+                time="0.032"
+                classname="com.databasetesting.DatabaseTesting">
+            </testcase>
+            <testcase
+                name="test_get_order_by_cust"
+                time="0.046"
+                classname="com.databasetesting.DatabaseTesting">
+            </testcase>
+</testsuite>

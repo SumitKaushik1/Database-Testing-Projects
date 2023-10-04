@@ -1,0 +1,31 @@
+[ {
+  "uid" : "fbb216a83995dcde",
+  "name" : "testCustomerLevelWithSQLStatement",
+  "time" : {
+    "start" : 1696236860717,
+    "stop" : 1696236860775,
+    "duration" : 58
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5f1fb5956ddfc8ba",
+  "name" : "storedFunctionExists",
+  "time" : {
+    "start" : 1696236860114,
+    "stop" : 1696236860501,
+    "duration" : 387
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dc372b3b393e1a31",
+  "name" : "testCustomerLevelWithStoredProcedure",
+  "time" : {
+    "start" : 1696236860817,
+    "stop" : 1696236861006,
+    "duration" : 189
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
