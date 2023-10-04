@@ -18,5 +18,5 @@ databasetesting->
 It consists the .java files for testing stored procedure by TestNg(Automation)
 
 
-databasetesting->
+databasetesting1->
 It consists the .java files for testing stored functions by TestNg(Automation)
