@@ -12,7 +12,8 @@ It consist the testing of  stored procedures.
 stored_function_testing ->
 It consist the testing of stored functions.
 
-
+stored_function_testing->
+it consist the testing of triggers
 
 databasetesting->
 It consists the .java files for testing stored procedure by TestNg(Automation)
