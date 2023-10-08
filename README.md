@@ -15,6 +15,8 @@ It consist the testing of stored functions.
 stored_function_testing->
 it consist the testing of triggers
 
+Jira_Zephyr_Stored_functional_test_case report->jira zephyr test case report
+
 databasetesting->
 It consists the .java files for testing stored procedure by TestNg(Automation)
 
