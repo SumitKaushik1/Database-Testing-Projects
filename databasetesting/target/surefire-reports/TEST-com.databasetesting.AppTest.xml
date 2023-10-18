@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.databasetesting.AppTest" time="6.827" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\amit\Downloads\3.DATA_BASE_TESTING_SDET_QA_AUTOMATION_TECHIE\part6_procedure_testing_automation\databasetesting\target\test-classes;C:\Users\amit\Downloads\3.DATA_BASE_TESTING_SDET_QA_AUTOMATION_TECHIE\part6_procedure_testing_automation\databasetesting\target\classes;C:\Users\amit\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\amit\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\amit\.m2\repository\com\mysql\mysql-connector-j\8.0.33\mysql-connector-j-8.0.33.jar;C:\Users\amit\.m2\repository\com\google\protobuf\protobuf-java\3.21.9\protobuf-java-3.21.9.jar;C:\Users\amit\.m2\repository\org\testng\testng\7.8.0\testng-7.8.0.jar;C:\Users\amit\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\amit\.m2\repository\org\webjars\jquery\3.6.1\jquery-3.6.1.jar;C:\Users\amit\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\amit\.m2\repository\com\google\inject\guice\7.0.0\guice-7.0.0.jar;C:\Users\amit\.m2\repository\jakarta\inject\jakarta.inject-api\2.0.1\jakarta.inject-api-2.0.1.jar;C:\Users\amit\.m2\repository\aopalliance\aopalliance\1.0\aopalliance-1.0.jar;C:\Users\amit\.m2\repository\com\google\guava\guava\31.0.1-jre\guava-31.0.1-jre.jar;C:\Users\amit\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\amit\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\amit\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\amit\.m2\repository\org\checkerframework\checker-qual\3.12.0\checker-qual-3.12.0.jar;C:\Users\amit\.m2\repository\com\google\errorprone\error_prone_annotations\2.7.1\error_prone_annotations-2.7.1.jar;C:\Users\amit\.m2\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar;C:\Users\amit\.m2\repository\org\testng\reportng\1.2.2\reportng-1.2.2.jar;C:\Users\amit\.m2\repository\org\freemarker\freemarker\2.3.28\freemarker-2.3.28.jar;C:\Users\amit\.m2\repository\org\apache\commons\commons-lang3\3.13.0\commons-lang3-3.13.0.jar;C:\Users\amit\.m2\repository\io\qameta\allure\allure-testng\2.24.0\allure-testng-2.24.0.jar;C:\Users\amit\.m2\repository\io\qameta\allure\allure-java-commons\2.24.0\allure-java-commons-2.24.0.jar;C:\Users\amit\.m2\repository\io\qameta\allure\allure-model\2.24.0\allure-model-2.24.0.jar;C:\Users\amit\.m2\repository\io\qameta\allure\allure-test-filter\2.24.0\allure-test-filter-2.24.0.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.14\bin"/>
+    <property name="sun.java.command" value="C:\Users\amit\AppData\Local\Temp\surefire6994251169490036826\surefirebooter5824446046778233543.jar C:\Users\amit\AppData\Local\Temp\surefire6994251169490036826 2023-10-18T19-39-55_760-jvmRun1 surefire9020776055109312885tmp surefire_09611905423481262305tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\amit\Downloads\3.DATA_BASE_TESTING_SDET_QA_AUTOMATION_TECHIE\part6_procedure_testing_automation\databasetesting\target\test-classes;C:\Users\amit\Downloads\3.DATA_BASE_TESTING_SDET_QA_AUTOMATION_TECHIE\part6_procedure_testing_automation\databasetesting\target\classes;C:\Users\amit\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\amit\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\amit\.m2\repository\com\mysql\mysql-connector-j\8.0.33\mysql-connector-j-8.0.33.jar;C:\Users\amit\.m2\repository\com\google\protobuf\protobuf-java\3.21.9\protobuf-java-3.21.9.jar;C:\Users\amit\.m2\repository\org\testng\testng\7.8.0\testng-7.8.0.jar;C:\Users\amit\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\amit\.m2\repository\org\webjars\jquery\3.6.1\jquery-3.6.1.jar;C:\Users\amit\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\amit\.m2\repository\com\google\inject\guice\7.0.0\guice-7.0.0.jar;C:\Users\amit\.m2\repository\jakarta\inject\jakarta.inject-api\2.0.1\jakarta.inject-api-2.0.1.jar;C:\Users\amit\.m2\repository\aopalliance\aopalliance\1.0\aopalliance-1.0.jar;C:\Users\amit\.m2\repository\com\google\guava\guava\31.0.1-jre\guava-31.0.1-jre.jar;C:\Users\amit\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\amit\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\amit\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\amit\.m2\repository\org\checkerframework\checker-qual\3.12.0\checker-qual-3.12.0.jar;C:\Users\amit\.m2\repository\com\google\errorprone\error_prone_annotations\2.7.1\error_prone_annotations-2.7.1.jar;C:\Users\amit\.m2\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar;C:\Users\amit\.m2\repository\org\testng\reportng\1.2.2\reportng-1.2.2.jar;C:\Users\amit\.m2\repository\org\freemarker\freemarker\2.3.28\freemarker-2.3.28.jar;C:\Users\amit\.m2\repository\org\apache\commons\commons-lang3\3.13.0\commons-lang3-3.13.0.jar;C:\Users\amit\.m2\repository\io\qameta\allure\allure-testng\2.24.0\allure-testng-2.24.0.jar;C:\Users\amit\.m2\repository\io\qameta\allure\allure-java-commons\2.24.0\allure-java-commons-2.24.0.jar;C:\Users\amit\.m2\repository\io\qameta\allure\allure-model\2.24.0\allure-model-2.24.0.jar;C:\Users\amit\.m2\repository\io\qameta\allure\allure-test-filter\2.24.0\allure-test-filter-2.24.0.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\amit"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2022-01-18"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-11.0.14"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\amit\Downloads\3.DATA_BASE_TESTING_SDET_QA_AUTOMATION_TECHIE\part6_procedure_testing_automation\databasetesting"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\amit\AppData\Local\Temp\surefire6994251169490036826\surefirebooter5824446046778233543.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.14+8-LTS-263"/>
+    <property name="user.name" value="sumit"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="localRepository" value="C:\Users\amit\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\amit\AppData\Local\Temp\"/>
+    <property name="java.version" value="11.0.14"/>
+    <property name="user.dir" value="C:\Users\amit\Downloads\3.DATA_BASE_TESTING_SDET_QA_AUTOMATION_TECHIE\part6_procedure_testing_automation\databasetesting"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11.0.14\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\TDM-GCC-64\bin;C:\Program Files\Java\jdk-11.0.14\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\PROGRAMDATA\ORACLE\JAVA\JAVAPATH;C:\PROGRAM FILES (X86)\INTEL\ICLS CLIENT\;C:\PROGRAM FILES\INTEL\ICLS CLIENT\;C:\WINDOWS\SYSTEM32;C:\WINDOWS;C:\WINDOWS\SYSTEM32\WBEM;C:\WINDOWS\SYSTEM32\WINDOWSPOWERSHELL\V1.0\;C:\PROGRAM FILES\INTEL\INTEL(R) MANAGEMENT ENGINE COMPONENTS\DAL;C:\PROGRAM FILES\INTEL\INTEL(R) MANAGEMENT ENGINE COMPONENTS\IPT;C:\PROGRAM FILES (X86)\INTEL\INTEL(R) MANAGEMENT ENGINE COMPONENTS\DAL;C:\PROGRAM FILES (X86)\INTEL\INTEL(R) MANAGEMENT ENGINE COMPONENTS\IPT;C:\PROGRAM FILES (X86)\COMMON FILES\LENOVO\EASYPLUSSDK\BIN;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\WIDCOMM\Bluetooth Software\syswow64;C:\WINDOWS\system32;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Users\amit\AppData\Local\Microsoft\WindowsApps;C:\Users\amit\AppData\Roaming\Dashl;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Microsoft VS Code\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\nodejs\;C:\Users\amit\Desktop\curl-8.0.1_7-win64-mingw;C:\apache-maven-3.9.3\bin;C:\Program Files\Git\cmd;C:\Program Files\Rancher Desktop\resources\resources\win32\bin\;C:\Program Files\Rancher Desktop\resources\resources\linux\bin\;C:\allure-2.10.0\bin;C:\Windows\System32\wsl.exe;C:\Program Files\Go\bin;C:\sqlite-tools-win32-x86-3430100;C:\Program Files\PuTTY\;C:\Users\amit\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\amit\AppData\Local\Programs\Python\Python311\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\amit\AppData\Local\Microsoft\WindowsApps;C:\Users\amit\AppData\Roaming\Dashlane\4.6.5.21982\bin\Firefox_Extension\{442718d9-475e-452a-b3e1-fb1ee16b8e9f}\components;C:\Users\amit\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\amit\.dotnet\tools;C:\Users\amit\AppData\Roaming\npm;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.2\bin;;C:\Users\amit\AppData\Local\JetBrains\Aqua 231.9206\bin;;C:\Program Files\JetBrains\PyCharm 2023.1.3\bin;;C:\Users\amit\go\bin;C:\Program Files\JetBrains\GoLand 2023.2.2\bin;;."/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.version" value="11.0.14+8-LTS-263"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue on shouldAnswerWithTrue(com.databasetesting.AppTest)" classname="com.databasetesting.AppTest" time="0.122"/>
+</testsuite>
