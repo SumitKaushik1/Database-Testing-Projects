@@ -25,4 +25,6 @@ databasetesting1->
 It consists the .java files for testing stored functions by TestNg(Automation)
 
 
-emailable-report-> report for procedure testing(automation-TestNg)
+emailable-report(procedure)-> report for procedure testing(automation-TestNg)
+
+emailable-report(function)-> report for procedure testing(automation-TestNg)
