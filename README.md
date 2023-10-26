@@ -15,6 +15,8 @@ It consist the testing of stored functions.
 stored_function_testing->
 it consist the testing of triggers
 
+CLAS-Retrospective_ CLAS Sprint 1-261023-150331->Restrospective report for stored function testing
+
 Jira_Zephyr_Stored_functional_test_case report->jira zephyr test case report(manual)
 
 databasetesting->
