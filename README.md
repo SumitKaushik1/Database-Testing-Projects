@@ -40,3 +40,6 @@ ________________________________________________________________________________
 7.https://www.opencart.com/index.php?route=account/register ->opencart webiste
 
 Zephyr Scale - Jira report for dataMapping testing of opencart website->testing report for the dataMapping of opencart
+
+__________________________________________________________________________________________
+8.data_integrity_testing->it contains the tables used for integrity testing
