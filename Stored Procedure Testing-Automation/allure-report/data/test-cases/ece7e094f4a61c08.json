@@ -1,0 +1,102 @@
+{
+  "uid" : "ece7e094f4a61c08",
+  "name" : "test_get_order_by_cust",
+  "fullName" : "org.example.DatabaseTesting.test_get_order_by_cust",
+  "historyId" : "42778a3f26465c5f71281767f158c2f9",
+  "time" : {
+    "start" : 1697663857167,
+    "stop" : 1697663857225,
+    "duration" : 58
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1697663852195,
+      "stop" : 1697663854838,
+      "duration" : 2643
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1697663857311,
+      "stop" : 1697663857319,
+      "duration" : 8
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "org.example.DatabaseTesting"
+  }, {
+    "name" : "testClass",
+    "value" : "org.example.DatabaseTesting"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_get_order_by_cust"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "databasetestingextra"
+  }, {
+    "name" : "subSuite",
+    "value" : "org.example.DatabaseTesting"
+  }, {
+    "name" : "host",
+    "value" : "PRITAM-PC"
+  }, {
+    "name" : "thread",
+    "value" : "5808@PRITAM-PC.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2137fa7b637dc3aa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1697663761369,
+        "stop" : 1697663761421,
+        "duration" : 52
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ece7e094f4a61c08.json",
+  "parameterValues" : [ ]
+}

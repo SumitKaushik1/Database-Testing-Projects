@@ -8,7 +8,7 @@
                         <include name="shouldAnswerWithTrue"/>
                     </methods>
                    </class>-->
-                    <class name="com.databasetesting.DatabaseTesting">
+                    <class name="org.example.DatabaseTesting">
                      <methods>
                            <include name="testStoredProcedureExists"/>
                          <include name="selectAllCustomer"/>

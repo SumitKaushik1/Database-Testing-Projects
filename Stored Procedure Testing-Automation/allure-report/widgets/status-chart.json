@@ -1,1 +1,71 @@
-[ ]
+[ {
+  "uid" : "9eb495afe4fe07ac",
+  "name" : "selectAllCustomersByCityAndPin",
+  "time" : {
+    "start" : 1697663857102,
+    "stop" : 1697663857141,
+    "duration" : 39
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "26e0e32d8740db1b",
+  "name" : "selectAllCustomer",
+  "time" : {
+    "start" : 1697663855633,
+    "stop" : 1697663856247,
+    "duration" : 614
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ece7e094f4a61c08",
+  "name" : "test_get_order_by_cust",
+  "time" : {
+    "start" : 1697663857167,
+    "stop" : 1697663857225,
+    "duration" : 58
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ba0f1f16abc67910",
+  "name" : "testStoredProcedureExists",
+  "time" : {
+    "start" : 1697663855143,
+    "stop" : 1697663855349,
+    "duration" : 206
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1f1e0e50b52da075",
+  "name" : "shouldAnswerWithTrue",
+  "time" : {
+    "start" : 1697663821354,
+    "stop" : 1697663821368,
+    "duration" : 14
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9054ad3eb5c246c0",
+  "name" : "selectAllCustomersByCity",
+  "time" : {
+    "start" : 1697663856340,
+    "stop" : 1697663856545,
+    "duration" : 205
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "da64678f58bbb229",
+  "name" : "testGetCustomerShipping",
+  "time" : {
+    "start" : 1697663857268,
+    "stop" : 1697663857293,
+    "duration" : 25
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,92 @@
+{
+  "uid" : "2137fa7b637dc3aa",
+  "name" : "test_get_order_by_cust",
+  "fullName" : "org.example.DatabaseTesting.test_get_order_by_cust",
+  "historyId" : "42778a3f26465c5f71281767f158c2f9",
+  "time" : {
+    "start" : 1697663761369,
+    "stop" : 1697663761421,
+    "duration" : 52
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1697663758387,
+      "stop" : 1697663760549,
+      "duration" : 2162
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1697663761460,
+      "stop" : 1697663761484,
+      "duration" : 24
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "org.example.DatabaseTesting"
+  }, {
+    "name" : "testClass",
+    "value" : "org.example.DatabaseTesting"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_get_order_by_cust"
+  }, {
+    "name" : "parentSuite",
+    "value" : "All Test Suite"
+  }, {
+    "name" : "suite",
+    "value" : "C:/Users/amit/Downloads/3.DATA BASE TESTING  SDET QA AUTOMATION TECHIE/part6 procedure testing automation/databasetesting"
+  }, {
+    "name" : "subSuite",
+    "value" : "org.example.DatabaseTesting"
+  }, {
+    "name" : "host",
+    "value" : "PRITAM-PC"
+  }, {
+    "name" : "thread",
+    "value" : "8436@PRITAM-PC.TestNG-test=C:/Users/amit/Downloads/3.DATA BASE TESTING  SDET QA AUTOMATION TECHIE/part6 procedure testing automation/databasetesting-1(16)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2137fa7b637dc3aa.json",
+  "parameterValues" : [ ]
+}

@@ -1,5 +1,120 @@
 {
   "uid" : "98d3104e051c652961429bf95fa0b5d6",
   "name" : "suites",
-  "children" : [ ]
+  "children" : [ {
+    "name" : "Undefined suite",
+    "children" : [ {
+      "name" : "Undefined testng tag",
+      "children" : [ {
+        "name" : "org.example.AppTest",
+        "children" : [ {
+          "name" : "shouldAnswerWithTrue",
+          "uid" : "1f1e0e50b52da075",
+          "parentUid" : "8c1c0b39a74f10cd4d5a6a0376779c0f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1697663821354,
+            "stop" : 1697663821368,
+            "duration" : 14
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "8c1c0b39a74f10cd4d5a6a0376779c0f"
+      } ],
+      "uid" : "67e317549df4c02092b95818f6c62c09"
+    } ],
+    "uid" : "4a6dd4ef5e4943990a1da74ef8c58182"
+  }, {
+    "name" : "Default Suite",
+    "children" : [ {
+      "name" : "databasetestingextra",
+      "children" : [ {
+        "name" : "org.example.DatabaseTesting",
+        "children" : [ {
+          "name" : "testStoredProcedureExists",
+          "uid" : "ba0f1f16abc67910",
+          "parentUid" : "d6548d2f0da78cbf909d89f034652197",
+          "status" : "passed",
+          "time" : {
+            "start" : 1697663855143,
+            "stop" : 1697663855349,
+            "duration" : 206
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "selectAllCustomer",
+          "uid" : "26e0e32d8740db1b",
+          "parentUid" : "d6548d2f0da78cbf909d89f034652197",
+          "status" : "passed",
+          "time" : {
+            "start" : 1697663855633,
+            "stop" : 1697663856247,
+            "duration" : 614
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "selectAllCustomersByCity",
+          "uid" : "9054ad3eb5c246c0",
+          "parentUid" : "d6548d2f0da78cbf909d89f034652197",
+          "status" : "passed",
+          "time" : {
+            "start" : 1697663856340,
+            "stop" : 1697663856545,
+            "duration" : 205
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "selectAllCustomersByCityAndPin",
+          "uid" : "9eb495afe4fe07ac",
+          "parentUid" : "d6548d2f0da78cbf909d89f034652197",
+          "status" : "passed",
+          "time" : {
+            "start" : 1697663857102,
+            "stop" : 1697663857141,
+            "duration" : 39
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_get_order_by_cust",
+          "uid" : "ece7e094f4a61c08",
+          "parentUid" : "d6548d2f0da78cbf909d89f034652197",
+          "status" : "passed",
+          "time" : {
+            "start" : 1697663857167,
+            "stop" : 1697663857225,
+            "duration" : 58
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "testGetCustomerShipping",
+          "uid" : "da64678f58bbb229",
+          "parentUid" : "d6548d2f0da78cbf909d89f034652197",
+          "status" : "passed",
+          "time" : {
+            "start" : 1697663857268,
+            "stop" : 1697663857293,
+            "duration" : 25
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "d6548d2f0da78cbf909d89f034652197"
+      } ],
+      "uid" : "9fb46b47104c1915e56ddb9d2d256f2e"
+    } ],
+    "uid" : "8399274b4bb69ec8699907dd6ef7de4e"
+  } ]
 }

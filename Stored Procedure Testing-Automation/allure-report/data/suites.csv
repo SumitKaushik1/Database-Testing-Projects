@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Oct 19 02:47:37 IST 2023","Thu Oct 19 02:47:37 IST 2023","39","Default Suite","databasetestingextra","org.example.DatabaseTesting","org.example.DatabaseTesting","selectAllCustomersByCityAndPin","selectAllCustomersByCityAndPin",""
+"passed","Thu Oct 19 02:47:35 IST 2023","Thu Oct 19 02:47:36 IST 2023","614","Default Suite","databasetestingextra","org.example.DatabaseTesting","org.example.DatabaseTesting","selectAllCustomer","selectAllCustomer",""
+"passed","Thu Oct 19 02:47:37 IST 2023","Thu Oct 19 02:47:37 IST 2023","58","Default Suite","databasetestingextra","org.example.DatabaseTesting","org.example.DatabaseTesting","test_get_order_by_cust","test_get_order_by_cust",""
+"passed","Thu Oct 19 02:47:35 IST 2023","Thu Oct 19 02:47:35 IST 2023","206","Default Suite","databasetestingextra","org.example.DatabaseTesting","org.example.DatabaseTesting","testStoredProcedureExists","testStoredProcedureExists",""
+"passed","Thu Oct 19 02:47:01 IST 2023","Thu Oct 19 02:47:01 IST 2023","14","Undefined suite","Undefined testng tag","org.example.AppTest","org.example.AppTest","shouldAnswerWithTrue","shouldAnswerWithTrue",""
+"passed","Thu Oct 19 02:47:36 IST 2023","Thu Oct 19 02:47:36 IST 2023","205","Default Suite","databasetestingextra","org.example.DatabaseTesting","org.example.DatabaseTesting","selectAllCustomersByCity","selectAllCustomersByCity",""
+"passed","Thu Oct 19 02:47:37 IST 2023","Thu Oct 19 02:47:37 IST 2023","25","Default Suite","databasetestingextra","org.example.DatabaseTesting","org.example.DatabaseTesting","testGetCustomerShipping","testGetCustomerShipping",""

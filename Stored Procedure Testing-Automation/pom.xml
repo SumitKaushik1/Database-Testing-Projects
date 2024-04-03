@@ -4,11 +4,11 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.databasetesting</groupId>
-  <artifactId>databasetesting</artifactId>
+  <groupId>org.example</groupId>
+  <artifactId>databasetestingextra</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>databasetesting</name>
+  <name>databasetestingextra</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
@@ -22,17 +22,17 @@
 
 
 
-<!--
+  <!--
 
 
-  <build>
-    <pluginManagement>
-      <plugins>
+    <build>
+      <pluginManagement>
+        <plugins>
 
-      </plugins>
-    </pluginManagement>
-  </build>
--->
+        </plugins>
+      </pluginManagement>
+    </build>
+  -->
 
 
 
@@ -150,11 +150,11 @@
 
 
 
- <!-- this surefire plugin  is for running the junit test cases  it is the build plugin -->
-       <plugin>
+        <!-- this surefire plugin  is for running the junit test cases  it is the build plugin -->
+        <plugin>
           <artifactId>maven-surefire-plugin</artifactId>
           <version>2.22.1</version>
-       </plugin>
+        </plugin>
 
 
 
@@ -247,3 +247,4 @@
 
 
 </project>
+
