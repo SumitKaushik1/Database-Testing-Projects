@@ -27,3 +27,25 @@
  Check stored procedure updating data in proper table<br>
  Check stored procedure deleting data from proper table<br>
  Check  calling stored procedure from another stored procedure<br>
+
+## Stored Procedure Testing - Automation
+
+ ### Framework
+ - TestNg<br>
+ - Junit<br>
+ ### Driver
+ - MySQL Connector
+### Report
+ - Allure<br>
+ - Reportng<br>
+
+ ### Test Cases
+      
+ Check Stored procedure exist in database<br>
+ Check stored procedure with valid input data<br>
+ Check stored procedure handle exceptions with you pass invalid input data<br>
+ Check stored procedure display results as expected<br>
+ Check stored procedure inserting data in proper table<br>
+ Check stored procedure updating data in proper table<br>
+ Check stored procedure deleting data from proper table<br>
+ Check  calling stored procedure from another stored procedure<br>
