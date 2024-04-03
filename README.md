@@ -13,13 +13,13 @@
  Check nulls fields in a table<br>
  Check column keys in a table<br>
 
-__________________________________________________________________________________
+
 
  ## Stored Procedure Testing - Manual
 
  ### Test Cases
       
- Check Stored exist in database<br>
+ Check Stored procedure exist in database<br>
  Check stored procedure with valid input data<br>
  Check stored procedure handle exceptions with you pass invalid input data<br>
  Check stored procedure display results as expected<br>
