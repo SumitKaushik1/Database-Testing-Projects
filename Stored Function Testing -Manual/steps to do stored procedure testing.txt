@@ -1,0 +1,12 @@
+first sprint is prepared ie what are the user story is added 
+then th user story is added to the sprint 
+thene we start the sprint adn decide the timeline or 1 week
+
+user story is the requirement 
+epic is the collection of the user story
+task is the work assigned to particular user story
+
+
+so firstly make the test cases 
+in the jira then add the commands in mysql
+tehn execute in teh jira witjh teh side by side

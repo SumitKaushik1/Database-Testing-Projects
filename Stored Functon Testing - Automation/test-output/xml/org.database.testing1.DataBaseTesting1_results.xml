@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="C:/Users/amit/Downloads/3.DATA_BASE_TESTING_SDET_QA_AUTOMATION_TECHIE/part10_data_base_testing_automation/databasetesting1"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.343">
+    <properties></properties>
+
+
+
+            <testcase
+                name="storedFunctionExists"
+                time="0.632"
+                classname="org.database.testing1.DataBaseTesting1">
+            </testcase>
+            <testcase
+                name="testCustomerLevelWithSQLStatement"
+                time="0.333"
+                classname="org.database.testing1.DataBaseTesting1">
+            </testcase>
+            <testcase
+                name="testCustomerLevelWithStoredProcedure"
+                time="0.378"
+                classname="org.database.testing1.DataBaseTesting1">
+            </testcase>
+</testsuite>

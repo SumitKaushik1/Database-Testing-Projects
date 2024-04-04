@@ -1,0 +1,92 @@
+{
+  "uid" : "ed7638b8b200d2ca",
+  "name" : "testCustomerLevelWithSQLStatement",
+  "fullName" : "org.database.testing1.DataBaseTesting1.testCustomerLevelWithSQLStatement",
+  "historyId" : "627abdc7cc198eb9197b5cd678971f88",
+  "time" : {
+    "start" : 1696236707149,
+    "stop" : 1696236707235,
+    "duration" : 86
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1696236704745,
+      "stop" : 1696236706473,
+      "duration" : 1728
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1696236707404,
+      "stop" : 1696236707410,
+      "duration" : 6
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "org.database.testing1.DataBaseTesting1"
+  }, {
+    "name" : "testClass",
+    "value" : "org.database.testing1.DataBaseTesting1"
+  }, {
+    "name" : "testMethod",
+    "value" : "testCustomerLevelWithSQLStatement"
+  }, {
+    "name" : "parentSuite",
+    "value" : "All Test Suite"
+  }, {
+    "name" : "suite",
+    "value" : "C:/Users/amit/Downloads/3.DATA_BASE_TESTING_SDET_QA_AUTOMATION_TECHIE/part10_data_base_testing_automation/databasetesting1"
+  }, {
+    "name" : "subSuite",
+    "value" : "org.database.testing1.DataBaseTesting1"
+  }, {
+    "name" : "host",
+    "value" : "PRITAM-PC"
+  }, {
+    "name" : "thread",
+    "value" : "15844@PRITAM-PC.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ed7638b8b200d2ca.json",
+  "parameterValues" : [ ]
+}

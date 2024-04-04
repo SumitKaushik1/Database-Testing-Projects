@@ -1,0 +1,52 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "PRITAM-PC",
+    "children" : [ {
+      "name" : "2896@PRITAM-PC.main(1)",
+      "children" : [ {
+        "name" : "testCustomerLevelWithStoredProcedure",
+        "uid" : "dc372b3b393e1a31",
+        "parentUid" : "50041c4fbeb0d7b2cb3cf36c46a13ce0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1696236860817,
+          "stop" : 1696236861006,
+          "duration" : 189
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testCustomerLevelWithSQLStatement",
+        "uid" : "fbb216a83995dcde",
+        "parentUid" : "50041c4fbeb0d7b2cb3cf36c46a13ce0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1696236860717,
+          "stop" : 1696236860775,
+          "duration" : 58
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "storedFunctionExists",
+        "uid" : "5f1fb5956ddfc8ba",
+        "parentUid" : "50041c4fbeb0d7b2cb3cf36c46a13ce0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1696236860114,
+          "stop" : 1696236860501,
+          "duration" : 387
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "50041c4fbeb0d7b2cb3cf36c46a13ce0"
+    } ],
+    "uid" : "e2b23059c1af70cabbff6cbc8d003adc"
+  } ]
+}

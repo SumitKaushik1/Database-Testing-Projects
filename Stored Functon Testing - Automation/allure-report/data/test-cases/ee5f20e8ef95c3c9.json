@@ -1,0 +1,92 @@
+{
+  "uid" : "ee5f20e8ef95c3c9",
+  "name" : "storedFunctionExists",
+  "fullName" : "org.database.testing1.DataBaseTesting1.storedFunctionExists",
+  "historyId" : "363abc73e0ca91a7e00ec5656f9b6092",
+  "time" : {
+    "start" : 1696236706631,
+    "stop" : 1696236706896,
+    "duration" : 265
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1696236704745,
+      "stop" : 1696236706473,
+      "duration" : 1728
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1696236707404,
+      "stop" : 1696236707410,
+      "duration" : 6
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "org.database.testing1.DataBaseTesting1"
+  }, {
+    "name" : "testClass",
+    "value" : "org.database.testing1.DataBaseTesting1"
+  }, {
+    "name" : "testMethod",
+    "value" : "storedFunctionExists"
+  }, {
+    "name" : "parentSuite",
+    "value" : "All Test Suite"
+  }, {
+    "name" : "suite",
+    "value" : "C:/Users/amit/Downloads/3.DATA_BASE_TESTING_SDET_QA_AUTOMATION_TECHIE/part10_data_base_testing_automation/databasetesting1"
+  }, {
+    "name" : "subSuite",
+    "value" : "org.database.testing1.DataBaseTesting1"
+  }, {
+    "name" : "host",
+    "value" : "PRITAM-PC"
+  }, {
+    "name" : "thread",
+    "value" : "15844@PRITAM-PC.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ee5f20e8ef95c3c9.json",
+  "parameterValues" : [ ]
+}
