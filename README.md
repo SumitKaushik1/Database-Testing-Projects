@@ -49,3 +49,17 @@
  Check stored procedure updating data in proper table<br>
  Check stored procedure deleting data from proper table<br>
  Check  calling stored procedure from another stored procedure<br>
+
+ ## Stored Function Testing - Manual
+
+ ### Test Cases
+      
+ Check stored function exist in database<br>
+ Check stored function with valid input data<br>
+ Check stored function handle exceptions with you pass invalid input data<br>
+ Check stored function display results as expected<br>
+ Check stored function not used insert/update/delete operation<br>
+ Check stored function used only select statements<br>
+ Check calling stored function from stored procedure<br>
+
+
