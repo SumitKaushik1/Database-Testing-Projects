@@ -63,3 +63,24 @@
  Check calling stored function from stored procedure<br>
 
 
+ ## Stored Function Testing - Automation
+
+ ### Framework
+ - TestNg<br>
+ - Junit<br>
+ ### Driver
+ - MySQL Connector
+### Report
+ - Allure<br>
+ - Reportng<br>
+
+ ### Test Cases
+      
+ Check stored function exist in database<br>
+ Check stored function with valid input data<br>
+ Check stored function handle exceptions with you pass invalid input data<br>
+ Check stored function display results as expected<br>
+ Check stored function not used insert/update/delete operation<br>
+ Check stored function used only select statements<br>
+ Check calling stored function from stored procedure<br>
+
