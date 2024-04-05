@@ -85,7 +85,7 @@
  Check calling stored function from stored procedure<br>
 
 
-  ## Triggers Testing - Manual
+  ## Trigger Testing - Manual
 
  ### Test Cases
       
