@@ -84,3 +84,16 @@
  Check stored function used only select statements<br>
  Check calling stored function from stored procedure<br>
 
+
+  ## Triggers Testing - Manual
+
+ ### Test Cases
+      
+ Check  trigger event before insertion  of data in table <br>
+ Check  trigger event after insertion of data in table<br>
+ Check  trigger event before updaation  of data in table<br>
+ Check  trigger event after updation of data in table<br>
+ Check  trigger event before deletion of data in table<br>
+ Check  trigger event after deletion of data in table<br>
+
+
