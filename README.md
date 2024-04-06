@@ -96,4 +96,32 @@
  Check  trigger event before deletion of data in table<br>
  Check  trigger event after deletion of data in table<br>
 
+ 
+ ## Data Mapping  Testing - Manual
+
+```````````sh
+https://www.opencart.com/
+```````````
+ ### Test Cases
+ Check new account registration
+  - Frontend Validation
+  - Admin Validation
+  - Data base Validation
+    
+  Check details of the new account(retrieve)
+  - Frontend Validation
+  - Admin Validation
+  - Data base Validation
+
+ Check account details updating in the database(update)
+  - Frontend Validation
+  - Admin Validation
+  - Data base Validation
+
+ Check account details deleted from the  database after deletion of account from application(delete)
+  - Frontend Validation
+  - Admin Validation
+  - Data base Validation 
+
+
 
