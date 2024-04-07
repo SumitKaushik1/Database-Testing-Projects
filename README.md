@@ -123,5 +123,22 @@ https://www.opencart.com/
   - Admin Validation
   - Data base Validation 
 
+ 
+ ## Data Integrity  Testing - Manual
 
-
+  ### Table
+  - Courses
+  ### Test Cases
+  - Validate CourseId<br>
+  - Validate coursename<br>
+  - Validate fee<br>
+  
+   ### Table
+  - Student
+  ### Test Cases
+  - Validate SID &SNAME <br>
+  - Validate AGE<br>
+  - Validate Date of Birth<br>
+  - Validate courseid foreignkey(references to courseid of courses table)<br>
+  - Delete record from parent table(courses) and check child table(students) record automatically deleted<br>
+  
