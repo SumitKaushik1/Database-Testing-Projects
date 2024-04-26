@@ -1,0 +1,59 @@
+*firstly when you run the control panel of xampp it will make the file of xampp now in c drive now for all will run properly but apache will not run 
+b/z it requires the port which is 80 but 80 is used by the www ie world wide web services.
+
+*you can close hte process of www by go the control panel ->program and feaure and tehn features then uder iis ->world wide web service is there so disable it ie uncheck then process will be stopped but but it si not recommanded.
+
+*what you do for apache for main port donot use the 80 instad use 8080(jenkins run on it so close it )  and for ssl port use the 4433 instead 443
+
+*so open the xxamp control panel in administer mode  then configure service and port settings thne put the main port 8080 and ssl port 4433 
+itwill mak the this below file  
+
+*C:\xampp\xampp-control.ini
+
+
+*if you donot open the xxamp control panel in the administer mode thne this control panel will not make the this above file so manually make the file above in the location in that file write 
+[apache]
+apache_start=1
+apache_port=8080
+apache_sslport=4433 and save it 
+
+*note this xamp will install all the server in xamp file only 
+
+*now what you do xamp folder in the c drive go apache folder then go to the conf folder then open each and every file  whereever the 80 is tehre change to 8080 nad where ever 443 is there change to 4433 then 
+
+*change www.example.com:80 to localhost:80
+
+* and save all of it 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+so what happnes 
+what happens there is the file in the xamp that file is not matching in the system32 ie not synchronsied os the system32 file must be of hte latest version so all servers file must to match to it 
+
+*first solution--> is 
+
+hello there i found nice soulution for this without install vc-redist perfect for win7
+
+this error come 
+PHP Warning: 'vcruntime140.dll' 14.0 is not compatible with this PHP build linked with 14.16 in Unknown on line 0
+
+
+if you are using xampp method 1 : download vcruntime14.dll file from (www.dll-files.com) replace the downloaded file in Xammpp\apache\bin
+
+method 2: if you have visual studio 2015 or above installed on you system goto windows\system32 and search for vcruntime14.dll and copy that file and replace it with vcruntime14.dll exists in Xammpp\apache\bin
+
+
+
+2nd solution
+
+down the visual studio  c++ 2019 after installing it i will automaticlly instlled he latest version in the apache of xamp folder in c drive that vcruntime14.dll 
+that will easily synchronise with the system32 file 
+
+then run apache server it will smoothly run 
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+httpd-ssl.config
+ServerName www.example.com:4433-->ServerName localhost:4433
+
+replace 80 to 8080 
+443 to 4433
