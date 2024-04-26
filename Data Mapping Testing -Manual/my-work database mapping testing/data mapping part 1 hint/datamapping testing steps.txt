@@ -1,0 +1,4 @@
+*there are three ways we can check the data is in the database or not,
+*first is  the frontend ->when you register it will send back the message that you have successfully registered
+*second is admin -> open the dashboard page of admin check if he is registered or not 
+*third is the sql queries -> send queries to check is it registered or not 

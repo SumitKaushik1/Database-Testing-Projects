@@ -1,0 +1,2 @@
+how my ide will recoginse which sql it has to use 
+first it will see the port number 3306 now it will confirm the os that where is the file os will give the location of mysql to it (os only started the sql on 3306 so os must have the location of the sql where he has to save )

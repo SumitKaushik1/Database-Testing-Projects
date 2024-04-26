@@ -1,0 +1,5 @@
+login credetilas of cusomer
+username->pritam.2581996@gmail.com
+password->Sumit@123
+
+customer has right ot delete its account only admin is allowed ot deletet eh record 

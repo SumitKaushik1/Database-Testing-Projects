@@ -1,0 +1,23 @@
+*so what happnes we send teh requet to server and it will send back the htm file 
+
+admin credentials ->
+username ->admin
+password ->1234
+
+there is one is frontend where the customers do registration and tehre is teh admin part where will see the record it is registered or not 
+
+datamapping testing depends on the four operation ie th crud operation 
+
+
+1.check from registration page message came or not 
+2.check from admin point the under customer see the data is there or not 
+3.then apply sql query
+
+when you use the mysql workbench it will contact to port number 3306 there is the xamp server mysql is working ie 3306 then it made contact with that 
+
+note gherkin language is used in teh BDD ie in the automation 
+
+
+steps toe manula testing on jira 
+
+write all the test cases in the jira add in teh particualr folder and then start the  test cycle like one module is done like registration then all teh test cases adn thne add int eh folder specific to clearity then start the test cycel 

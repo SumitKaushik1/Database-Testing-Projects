@@ -1,0 +1,3 @@
+what happens the xamp has its own mysql and apache server whne you run on the control panel basically teh commands sends to xamp folder only
+
+since the xamp will respond on teh gui based when you send the request ie localhost/8080/opencart

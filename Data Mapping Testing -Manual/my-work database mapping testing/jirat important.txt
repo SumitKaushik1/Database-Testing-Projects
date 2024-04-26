@@ -1,0 +1,3 @@
+jira confluence spaces name same as teh jira software project name mind it 
+
+note gherkin language is used in teh BDD ie in the automation 
