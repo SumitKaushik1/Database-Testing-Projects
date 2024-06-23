@@ -1,4 +1,14 @@
 # Database-Testing-Projects
+
+## Browser-Link-Test-Reports
+   ### Data Integrity Testing - Manual
+   https://docs.google.com/spreadsheets/d/1YXfifR0TVao2VTCfeJUVR1QlBZkkUxIG/edit?usp=sharing&ouid=106800653154918970030&rtpof=true&sd=true
+   
+   ### Stored Procedure Testing - Manual
+  https://docs.google.com/spreadsheets/d/1BU7DGCq7osf_5TjTvrvhYrqMb6krAat0/edit?usp=sharing&ouid=106800653154918970030&rtpof=true&sd=true
+  
+  ### Structural Testing - Manual
+https://docs.google.com/spreadsheets/d/1CDrrYAeaizG2dBEbngqF0syuvO8lurvt/edit?usp=sharing&ouid=106800653154918970030&rtpof=true&sd=true
   
  ## Structural Testing - Manual
 
